@@ -1,0 +1,15 @@
+input =
+  [
+    {
+      amount: 100,
+      currency: "USD"
+    },
+    {
+      amount: 100 ,
+      currency: "EUR"
+    },
+    {
+      amount: 100,
+      currency: "GBP"
+    }
+  ]
