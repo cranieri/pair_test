@@ -7,6 +7,7 @@ Below are the currencies the service can be used with, and the correspondent com
 - GBP: 0.25%
 - EUR: 0.75%
 
+<<<<<<< HEAD
 You're requested to implement a ruby application that takes an array of payments (see input example below) and
 and returns an array of payments containing the commission fee for each payment (see output example below). The solution have to be developed following a TDD approach.
 
@@ -48,3 +49,7 @@ output = [
   }
 ]
 ```
+=======
+You're requested to implement a ruby application that takes an array of payments (see ./json_input.rb) and
+and returns an array of payments containing the commission fee for each payment (see ./json_output.rb). The solution have to be developed following a TDD approach.
+>>>>>>> parent of fdc147e... Update README.md
